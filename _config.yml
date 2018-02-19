@@ -1,5 +1,5 @@
 ---
-title: もりPのPerfumeブログ
+title: もりPのPerfume日記
 timezone: Asia/Tokyo
 collections:
   posts:
@@ -12,7 +12,7 @@ markdown: kramdown
 highlighter: rouge
 paginate: 5
 language: ja-jp
-name: もりPのPerfumeブログ
+name: もりPのPerfume日記
 description: もりPのPerfumeブログ
 short_url: blog.prfm.cf/
 google_analytics: 
