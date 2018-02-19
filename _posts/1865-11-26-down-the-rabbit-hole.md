@@ -1,14 +1,16 @@
 ---
-layout: post
-cover: 'assets/images/cover1.jpg'
-navigation: True
 title: Down The Rabbit Hole
-date: 1865-11-26 10:18:00
-tags: fiction
-subclass: 'post tag-fiction'
-logo: 'assets/images/ghost.png'
+date: 1865-11-26 10:18:00 Z
+categories:
+- lewis
+tags:
+- fiction
+layout: post
+cover: assets/images/cover1.jpg
+navigation: true
+subclass: post tag-fiction
+logo: assets/images/ghost.png
 author: lewis
-categories: lewis
 ---
 
 Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing to do: once or twice she had peeped into the book her sister was reading, but it had no pictures or conversations in it, 'and what is the use of a book,' thought Alice 'without pictures or conversation?'

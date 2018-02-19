@@ -1,8 +1,8 @@
 ---
-layout: page
 title: About
+layout: page
 navigation: true
-logo: 'assets/images/ghost.png'
+logo: assets/images/ghost.png
 current: about
 ---
 
