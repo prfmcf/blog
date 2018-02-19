@@ -1,0 +1,43 @@
+---
+title: もりPのPerfumeブログ
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+markdown: kramdown
+highlighter: rouge
+paginate: 5
+language: ja-jp
+name: もりPのPerfumeブログ
+description: もりPのPerfumeブログ
+short_url: blog.prfm.cf/
+google_analytics: 
+disqus: prfmcf
+baseurl: "/jasper/"
+permalink: "/:year/:month/:day/:hour:minute/"
+plugins:
+- jekyll-paginate
+safe: false
+lsi: false
+username: prfmcf
+repo: blog
+branch: master
+relative_source: 
+destination: "../jasper-pages/"
+production_url: https://blog.prfm.cf/
+source_url: https://blog.prfm.cf/
+exclude:
+- README.md
+- Rakefile
+- Gemfile
+- Gemfile.lock
+- changelog.md
+- "*.Rmd"
+- vendor
+- ".travis.yml"
+- node_modules
+- ".git"
