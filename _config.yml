@@ -1,6 +1,6 @@
 ---
 title: もりPのPerfumeブログ
-timezone: UTC
+timezone: Asia/Tokyo
 collections:
   posts:
     title: Posts
@@ -17,7 +17,7 @@ description: もりPのPerfumeブログ
 short_url: blog.prfm.cf/
 google_analytics: 
 disqus: prfmcf
-baseurl: "/jasper/"
+baseurl: "/"
 permalink: "/:year/:month/:day/:hour:minute/"
 plugins:
 - jekyll-paginate
